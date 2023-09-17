@@ -1,12 +1,12 @@
-<h1 align="center">Hi ??, I'm Amo Richard</h1>
+<h1 align="center">Hi ✌️, I'm Amo Richard</h1>
 <h3 align="center">A passionate Junior Full Stack Developer from Ghana</h3>
-<img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="about me"/>
+<p align="center"><img  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="about me" width="60%"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amo-richard" alt="amo-richard"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amo-richard" alt="amo-richard" width=" 80%"/></a> </p>
 
-- ?? I’m currently learning **react.js**
-
-- ?? How to reach me **amomanterichard@gmail.com**
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: amomanterichard@gmail.com<br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
