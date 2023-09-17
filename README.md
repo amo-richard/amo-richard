@@ -45,11 +45,6 @@
  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amo-richard&" alt="amo-richard" height="192px" width="60%"/></p>
 
-<p align="center">
-    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amo-richard&theme=default"
- alt="amo-richard" height="192px" width="100%" />
-</p>
-
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amo-richard&show_icons=true&locale=en&layout=compact" alt="amo-richard" height="192px" width="48%" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amo-richard&show_icons=true&locale=en" alt="amo-richard" height="192px" width="48%"/></p>
