@@ -6,17 +6,17 @@
 <p align="center">
 
  <a href="https://www.linkedin.com/in/amo-richard-9735551ab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="richard amo"/>
  </a>
 
  <a href="https://twitter.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/_amorichard_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="richard" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="richard amo" />
  </a> 
  <a href="https://www.facebook.com/amomante.richard/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="richard"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="richard amo"  />
   </a> 
 </p>
 
@@ -46,8 +46,8 @@
  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amo-richard&" alt="amo-richard" height="192px" width="60%"/></p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amo-richard&show_icons=true&locale=en&layout=compact" alt="amo-richard" height="192px" width="48%" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amo-richard&show_icons=true&locale=en&layout=compact" alt="amo-richard"  width="48%" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amo-richard&show_icons=true&locale=en" alt="amo-richard" height="192px" width="48%"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amo-richard&show_icons=true&locale=en" alt="amo-richard" width="48%"/></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amo-richard&bg_color=ffffff&color=7f8ff4&line=7f8ff4&point=7f8ff4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
